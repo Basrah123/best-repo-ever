@@ -1,3 +1,3 @@
 # best-repo-ever
 
-## This is an example of changes to commit
+## This is an example of a merge conflict
